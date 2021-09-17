@@ -28,8 +28,8 @@ Base URL (Test)
 --------
 
 .. code-block:: ReST
-
-    https://webapit.mskcc.org/
+    
+    https://apigateway-int.dev.mskcc.org/msk-apim/external/v1/crit/blaze
 
 Base URL (Production)
 --------
