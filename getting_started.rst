@@ -11,7 +11,7 @@ Authentication
 ==============
 
 In order to make use of Blaze, you'll need to be set up as an MSK "partner" so that you can consume clinical research data. If you would like to request access to data 
-for a research study at MSK, please send a request to **kochm@mskcc.org**. 
+for a research study at MSK, please send a request to **rtmcritds@mskcc.org**. 
 
 
 Authentication is based on the Client Credentials grant. This means that clients will need to generate an access token and supply it in the headers of each request being made.
